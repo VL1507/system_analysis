@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.5",
     "matplotlib>=3.10.1",
+    "networkx>=3.4.2",
     "pandas>=2.2.3",
     "tqdm>=4.67.1",
     "treelib>=1.7.1",
